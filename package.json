@@ -77,7 +77,6 @@
     "pg-hstore": "^2.3.4",
     "socket.io": "^4.7.2",
     "socket.io-client": "^4.7.2",
-    "svelte-adapter-static-digitalocean": "^2.0.1",
     "svelte-i18n": "^3.7.0",
     "svelte-local-storage-store": "^0.5.0",
     "swiper": "^10.2.0"
